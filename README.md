@@ -5,5 +5,5 @@
 ## 2주차
    -Github사용법
    
-   <img width=""height=""src="./png/<강아지.jpg>.png"></img>
+   <img width=""height=""src="./png/강아지.jpg"></img>
    
